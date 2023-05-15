@@ -14,9 +14,12 @@ A page created to test website screens and server APIs on a network that is disc
 
 ## back
 
-- java
-- spring boot
+- java 1.11.0.19
+- spring boot 
 
 ## DB
 
 - oracle 19c
+
+
+
